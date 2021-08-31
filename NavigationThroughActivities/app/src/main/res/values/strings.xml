@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Navigation Through Activities</string>
+    <string name="login">Login</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="forget_password">Forget Password?</string>
+    <string name="don_t_have_an_account">Don\'t Have an Account?</string>
+    <string name="register_now">Register Now</string>
+    <string name="google">Google</string>
+    <string name="facebook">Facebook</string>
+    <string name="register">Register</string>
+    <string name="username">Username</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="already_have_an_account_login">Already Have an Account? Login</string>
+</resources>
