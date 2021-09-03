@@ -10,5 +10,5 @@
     <dimen name="register_margin">520dp</dimen>
     <dimen name="image_width">350dp</dimen>
     <dimen name="image_height">280dp</dimen>
-    <dimen name="image_bottom_margin">350dp</dimen>
+    <dimen name="image_bottom_margin">310dp</dimen>
 </resources>
