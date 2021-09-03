@@ -15,7 +15,7 @@
 
 ## About the Project
 
-This Project is part of the NAID Mobile App Internship hosted and managed by Sprints concerning relative layout.
+This Project is part of the NAID Mobile App Internship hosted and managed by Sprints concerning Navigation and sending data Throught Activities.
 <p align="center">
   <img src="navigation2.gif" width="300" />
 </p>
@@ -23,6 +23,9 @@ This Project is part of the NAID Mobile App Internship hosted and managed by Spr
 <p align="center">
   <img src="login.png" width="300" />
   <img src="register.png" width="300" />
+</p>
+
+<p align="center">
   <img src="registerFull.png" width="300" />
   <img src="profile.png" width="300" />
 </p>
