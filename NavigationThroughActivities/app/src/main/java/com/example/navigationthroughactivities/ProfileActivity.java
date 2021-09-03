@@ -17,7 +17,7 @@ public class ProfileActivity extends AppCompatActivity {
         String name = intent.getStringExtra(RegisterActivity.EXTRA_NAME);
         String location = intent.getStringExtra(RegisterActivity.EXTRA_LOCATION);
         String email = intent.getStringExtra(RegisterActivity.EXTRA_Email);
-        int mobile = intent.getIntExtra(RegisterActivity.EXTRA_PHONE, 0);
+        String mobile = intent.getStringExtra(RegisterActivity.EXTRA_PHONE);
 
         TextView username = (TextView) findViewById(R.id.username);
         TextView residency = (TextView) findViewById(R.id.location);
@@ -27,7 +27,7 @@ public class ProfileActivity extends AppCompatActivity {
         username.setText(name);
         residency.setText(location);
         mail.setText(email);
-        phone.setText(" " + mobile);
+        phone.setText(mobile);
 
 
     }

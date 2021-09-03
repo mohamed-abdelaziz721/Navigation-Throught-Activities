@@ -75,7 +75,7 @@
         android:background="@drawable/box"
         android:ems="10"
         android:hint="+20 - 15 525-16-133"
-        android:inputType="phone"
+        android:inputType="text"
         android:textColor="@color/white"
         android:padding="10dp"
         android:textColorHint="@color/white"

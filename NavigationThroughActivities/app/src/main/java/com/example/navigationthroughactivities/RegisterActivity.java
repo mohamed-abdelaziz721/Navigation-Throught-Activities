@@ -55,7 +55,7 @@ public class RegisterActivity extends AppCompatActivity {
         String mail = email.getText().toString();
 
         TextView phone = (TextView) findViewById(R.id.phone);
-        int mobile = Integer.parseInt(phone.getText().toString());
+        String mobile =  phone.getText().toString();
 
         Intent intent = new Intent(RegisterActivity.this, ProfileActivity.class);
         intent.putExtra(EXTRA_NAME, name);
