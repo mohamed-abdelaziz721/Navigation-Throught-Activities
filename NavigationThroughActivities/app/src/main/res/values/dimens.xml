@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="margin_login">450dp</dimen>
+    <dimen name="text_size_large">40sp</dimen>
+    <dimen name="margin">30dp</dimen>
+    <dimen name="register_fields_margin">20dp</dimen>
+    <dimen name="padding">8dp</dimen>
+    <dimen name="text_size_small">15sp</dimen>
+    <dimen name="small_margin">10dp</dimen>
+    <dimen name="register_margin">520dp</dimen>
+    <dimen name="image_width">350dp</dimen>
+    <dimen name="image_height">280dp</dimen>
+    <dimen name="image_bottom_margin">350dp</dimen>
+</resources>
